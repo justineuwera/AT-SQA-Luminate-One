@@ -589,7 +589,7 @@
       "id": "e2e5b56f-3b65-4641-9241-390b22d1e43a",
       "comment": "",
       "command": "assertTitle",
-      "target": "AT*SQA - Association for Testing and Software Quality Assurance - ISTQB Exam Registration",
+      "target": "ISTQB Online Exam Registration - AT*SQA - Official US List of Certified Testers",
       "targets": [],
       "value": ""
     }, {
@@ -778,7 +778,7 @@
       "id": "33aa3a2e-f8e5-4849-b40e-303d94e15334",
       "comment": "",
       "command": "assertTitle",
-      "target": "AT*SQA - Association for Testing and Software Quality Assurance - ISTQB Exam Registration",
+      "target": "ISTQB Online Exam Registration - AT*SQA - Official US List of Certified Testers",
       "targets": [],
       "value": ""
     }, {
@@ -3325,7 +3325,7 @@
       "id": "61d5e050-e4c9-4222-9c66-62193f9b4aec",
       "comment": "",
       "command": "assertTitle",
-      "target": "AT*SQA - Association for Testing and Software Quality Assurance - ISTQB Exam Registration",
+      "target": "ISTQB Online Exam Registration - AT*SQA - Official US List of Certified Testers",
       "targets": [],
       "value": ""
     }, {
@@ -3488,7 +3488,7 @@
       "id": "5466a29c-7b84-4cda-bb6b-af023bad6db1",
       "comment": "",
       "command": "assertTitle",
-      "target": "AT*SQA - Association for Testing and Software Quality Assurance - ISTQB Exam Registration",
+      "target": "ISTQB Online Exam Registration - AT*SQA - Official US List of Certified Testers",
       "targets": [],
       "value": ""
     }, {
@@ -3692,7 +3692,7 @@
       "id": "94585680-c2dc-4540-8fa8-e29d9f4758e6",
       "comment": "",
       "command": "assertTitle",
-      "target": "AT*SQA - Association for Testing and Software Quality Assurance - ISTQB Exam Registration",
+      "target": "ISTQB Online Exam Registration - AT*SQA - Official US List of Certified Testers",
       "targets": [],
       "value": ""
     }, {
@@ -3900,7 +3900,7 @@
       "id": "5a966c15-ea00-4e93-833a-134274c5e7d4",
       "comment": "",
       "command": "assertTitle",
-      "target": "AT*SQA - Association for Testing and Software Quality Assurance - ISTQB Exam Registration",
+      "target": "ISTQB Online Exam Registration - AT*SQA - Official US List of Certified Testers",
       "targets": [],
       "value": ""
     }, {
@@ -4117,7 +4117,7 @@
       "id": "a6c5dfc5-79fd-4ce0-b4a2-344b3432cc83",
       "comment": "",
       "command": "assertTitle",
-      "target": "AT*SQA - Association for Testing and Software Quality Assurance - ISTQB Exam Registration",
+      "target": "ISTQB Online Exam Registration - AT*SQA - Official US List of Certified Testers",
       "targets": [],
       "value": ""
     }, {
@@ -4140,404 +4140,30 @@
       "targets": [],
       "value": ""
     }, {
-      "id": "4c36920f-c71a-46a3-9af0-d81e772ffb44",
+      "id": "2e078a42-1fea-4209-a461-fcfc1e947680",
       "comment": "",
-      "command": "mouseDownAt",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": "41.21875,11"
-    }, {
-      "id": "e3534bbe-719b-4b7a-b8d6-aa1802695895",
-      "comment": "",
-      "command": "mouseMoveAt",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": "41.21875,11"
-    }, {
-      "id": "4c730579-df51-4f91-9c50-46e986c6ff67",
-      "comment": "",
-      "command": "mouseUpAt",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": "41.21875,11"
-    }, {
-      "id": "c8f104e9-ba75-44bf-970f-5e2a3d0e689b",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "27450de8-ec47-4f9a-8094-55bc04119091",
-      "comment": "",
-      "command": "mouseOver",
-      "target": "linkText=Education",
-      "targets": [
-        ["linkText=Education", "linkText"],
-        ["css=.nav-item:nth-child(4) > .nav-link", "css:finder"],
-        ["xpath=//a[contains(text(),'Education')]", "xpath:link"],
-        ["xpath=//div[@id='navbar']/ul/li[4]/a", "xpath:idRelative"],
-        ["xpath=//a[contains(@href, '/educational-resources')]", "xpath:href"],
-        ["xpath=//nav/div/ul/li[4]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'Education')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "61d21aaa-57d3-48fb-90a7-4aa157839fd9",
-      "comment": "",
-      "command": "click",
-      "target": "css=.btn-primary",
-      "targets": [
-        ["css=.btn-primary", "css:finder"],
-        ["xpath=//input[@value='Accept']", "xpath:attributes"],
-        ["xpath=//div[@id='content']/div/div/form/div/input", "xpath:idRelative"],
-        ["xpath=//input", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "cfbab623-c6ed-4bec-931e-6ac4d4d2e28b",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=PURCHASE MODULE",
-      "targets": [
-        ["linkText=PURCHASE MODULE", "linkText"],
-        ["css=.landing-nav-item > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'PURCHASE MODULE')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li/a", "xpath:idRelative"],
-        ["xpath=//a[contains(@href, '/profile')]", "xpath:href"],
-        ["xpath=//a", "xpath:position"],
-        ["xpath=//a[contains(.,'PURCHASE MODULE')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "407e8d36-1544-4008-8028-47630f46e82b",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "50f227b6-c655-4f17-80eb-560d822a2766",
-      "comment": "",
-      "command": "mouseOver",
-      "target": "linkText=My Account",
-      "targets": [
-        ["linkText=My Account", "linkText"],
-        ["css=.solid", "css:finder"],
-        ["xpath=//a[contains(text(),'My Account')]", "xpath:link"],
-        ["xpath=//a[contains(@href, '/account')]", "xpath:href"],
-        ["xpath=//li[4]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'My Account')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "a0a72e4c-a30e-4099-a5ce-1f5f8ef094f4",
-      "comment": "",
-      "command": "click",
-      "target": "css=.btn-primary",
-      "targets": [
-        ["css=.btn-primary", "css:finder"],
-        ["xpath=//input[@value='Accept']", "xpath:attributes"],
-        ["xpath=//div[@id='content']/div/div/form/div/input", "xpath:idRelative"],
-        ["xpath=//input", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "1ca60080-e0e4-4f06-af30-039dcf422afd",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dropdown > .landing-nav-item",
-      "targets": [
-        ["css=.dropdown > .landing-nav-item", "css:finder"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/div/a", "xpath:idRelative"],
-        ["xpath=(//a[contains(@href, '/profile')])[2]", "xpath:href"],
-        ["xpath=//div/a", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "fd534793-c741-47fc-a648-c4dae2941b3a",
-      "comment": "",
-      "command": "mouseOver",
-      "target": "css=.dropdown > .landing-nav-item",
-      "targets": [
-        ["css=.dropdown > .landing-nav-item", "css:finder"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/div/a", "xpath:idRelative"],
-        ["xpath=(//a[contains(@href, '/profile')])[2]", "xpath:href"],
-        ["xpath=//div/a", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "3e67cd5f-f3f5-4f83-a417-69f54fba8b5e",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dropdown-content > li",
-      "targets": [
-        ["css=.dropdown-content > li", "css:finder"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/div/ul/li", "xpath:idRelative"],
-        ["xpath=//li[2]/div/ul/li", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "d9b6678d-6e8c-4189-8dbd-752fd7899e5d",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "1aff30fb-8177-4b6d-80db-3380dbbf6506",
-      "comment": "",
-      "command": "mouseOver",
-      "target": "linkText=Education",
-      "targets": [
-        ["linkText=Education", "linkText"],
-        ["css=.nav-item:nth-child(4) > .nav-link", "css:finder"],
-        ["xpath=//a[contains(text(),'Education')]", "xpath:link"],
-        ["xpath=//div[@id='navbar']/ul/li[4]/a", "xpath:idRelative"],
-        ["xpath=//a[contains(@href, '/educational-resources')]", "xpath:href"],
-        ["xpath=//nav/div/ul/li[4]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'Education')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "e455e768-e0ab-4f66-9a62-8e99a9ee2e04",
-      "comment": "",
-      "command": "click",
-      "target": "css=.btn-primary",
-      "targets": [
-        ["css=.btn-primary", "css:finder"],
-        ["xpath=//input[@value='Accept']", "xpath:attributes"],
-        ["xpath=//div[@id='content']/div/div/form/div/input", "xpath:idRelative"],
-        ["xpath=//input", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "0432221a-2710-485c-adad-b562548e5254",
-      "comment": "",
-      "command": "click",
-      "target": "css=.fa-user > path",
-      "targets": [
-        ["css=.fa-user > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "3e40c369-2095-465a-abad-c7aaa9cc03c2",
-      "comment": "",
-      "command": "mouseDownAt",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": "10.25,19"
-    }, {
-      "id": "9f0941e7-01c3-4098-ae98-6fd3f5b3bd2b",
-      "comment": "",
-      "command": "mouseMoveAt",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": "10.25,19"
-    }, {
-      "id": "a8027730-fb7a-4516-8abc-829f963055d6",
-      "comment": "",
-      "command": "mouseUpAt",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": "10.25,19"
-    }, {
-      "id": "3c722d70-130c-496d-b055-db960cb801c3",
-      "comment": "",
-      "command": "click",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "c32e3f07-614b-49b9-b35a-0229468ef8f8",
-      "comment": "",
-      "command": "click",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "c6caba04-80ab-40fa-a5df-8daaa9a09d8f",
-      "comment": "",
-      "command": "click",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "24e7610d-31f5-4941-a243-65b058c03819",
-      "comment": "",
-      "command": "click",
-      "target": "css=.card:nth-child(4) .btn-invert",
-      "targets": [
-        ["css=.card:nth-child(4) .btn-invert", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/div/div[2]/div[4]/div[3]/div/button", "xpath:idRelative"],
-        ["xpath=//div[4]/div[3]/div/button", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "3ce2c5c4-f8de-4139-b6e5-3661a6261f80",
-      "comment": "",
-      "command": "click",
-      "target": "css=.module-title",
-      "targets": [
-        ["css=.module-title", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/h2", "xpath:idRelative"],
-        ["xpath=//h2", "xpath:position"],
-        ["xpath=//h2[contains(.,'Test Automation')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "af24bc52-7a48-4bda-bb61-ee38e0d79034",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=Dashboard",
-      "targets": [
-        ["linkText=Dashboard", "linkText"],
-        ["css=.breadcrumb", "css:finder"],
-        ["xpath=//a[contains(text(),'Dashboard')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div[2]/div/a", "xpath:idRelative"],
-        ["xpath=//a[contains(@href, '/dashboard')]", "xpath:href"],
-        ["xpath=//div[2]/div/a", "xpath:position"],
-        ["xpath=//a[contains(.,'Dashboard')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "2bc9b553-6041-4fe1-b467-eff36585d58f",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dashboard-main-title > h2",
-      "targets": [
-        ["css=.dashboard-main-title > h2", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/div/div/h2", "xpath:idRelative"],
-        ["xpath=//h2", "xpath:position"],
-        ["xpath=//h2[contains(.,'Modules')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "1a412ff7-87b7-45e4-aa05-5d683cce96a8",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dot:nth-child(1) .badge-progress",
-      "targets": [
-        ["css=.dot:nth-child(1) .badge-progress", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/div/div/img", "xpath:idRelative"],
-        ["xpath=//div/div/div/div/div/img", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "dba94b55-0ce8-470f-8786-1a6183e3465f",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dot:nth-child(6) .badge-progress",
-      "targets": [
-        ["css=.dot:nth-child(6) .badge-progress", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div/div[6]/div/div/div/img", "xpath:idRelative"],
-        ["xpath=//div[6]/div/div/div/img", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "017ff3b1-abb7-4183-a955-36f09913a1ae",
-      "comment": "",
-      "command": "click",
-      "target": "css=.fa-chevron-right > path",
-      "targets": [
-        ["css=.fa-chevron-right > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "4447c580-d349-4cd2-95dd-d0428641c4a8",
-      "comment": "",
-      "command": "click",
-      "target": "css=.fa-chevron-right",
-      "targets": [
-        ["css=.fa-chevron-right", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "155beb94-368a-41b7-9048-2310ad675f02",
-      "comment": "",
-      "command": "click",
-      "target": "css=.fa-chevron-right",
-      "targets": [
-        ["css=.fa-chevron-right", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "4e3f1384-f6ce-474c-a5ff-50dfab0e8b8f",
-      "comment": "",
-      "command": "click",
-      "target": "css=.fa-chevron-left",
-      "targets": [
-        ["css=.fa-chevron-left", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "cc12fd0a-388a-4b09-8869-e48fe31402e6",
-      "comment": "",
-      "command": "close",
-      "target": "",
-      "targets": [],
-      "value": ""
-    }, {
-      "id": "808267ca-13c9-431d-9180-19337866504e",
-      "comment": "",
-      "command": "waitForElementPresent",
+      "command": "waitForElementVisible",
       "target": "css=.dashboard-main-title > h2",
       "targets": [],
       "value": "30000"
+    }, {
+      "id": "70514025-193e-4806-8d87-aab3d246adef",
+      "comment": "",
+      "command": "click",
+      "target": "css=.grey > path",
+      "targets": [
+        ["css=.grey > path", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "9d2734d9-809d-4905-b9b0-3bbde7da09a5",
+      "comment": "",
+      "command": "click",
+      "target": "css=.grey",
+      "targets": [
+        ["css=.grey", "css:finder"]
+      ],
+      "value": ""
     }, {
       "id": "ddfdd4e2-8568-46f7-9b41-c6c7deaeda5c",
       "comment": "",
@@ -4691,7 +4317,7 @@
       "id": "f3829fbb-4469-4276-9088-1a1d93750ee8",
       "comment": "",
       "command": "assertTitle",
-      "target": "AT*SQA - Association for Testing and Software Quality Assurance - ISTQB Exam Registration",
+      "target": "ISTQB Online Exam Registration - AT*SQA - Official US List of Certified Testers",
       "targets": [],
       "value": ""
     }, {
@@ -4714,354 +4340,12 @@
       "targets": [],
       "value": ""
     }, {
-      "id": "aa1683b4-52e8-4ab2-9c39-6f08a732ecae",
+      "id": "6cb706dc-dbeb-4b7e-a823-50f3e94a0629",
       "comment": "",
-      "command": "mouseDownAt",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": "41.21875,11"
-    }, {
-      "id": "1125dfdf-e7ce-4999-8897-327f6574ce67",
-      "comment": "",
-      "command": "mouseMoveAt",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": "41.21875,11"
-    }, {
-      "id": "267959d2-1ccd-4a22-8c1c-274d3ad1d2d8",
-      "comment": "",
-      "command": "mouseUpAt",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": "41.21875,11"
-    }, {
-      "id": "b80cfb81-1356-4cde-b80f-85b47fd2748f",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "162ef17b-37da-4057-962f-3110bf58a531",
-      "comment": "",
-      "command": "mouseOver",
-      "target": "linkText=Education",
-      "targets": [
-        ["linkText=Education", "linkText"],
-        ["css=.nav-item:nth-child(4) > .nav-link", "css:finder"],
-        ["xpath=//a[contains(text(),'Education')]", "xpath:link"],
-        ["xpath=//div[@id='navbar']/ul/li[4]/a", "xpath:idRelative"],
-        ["xpath=//a[contains(@href, '/educational-resources')]", "xpath:href"],
-        ["xpath=//nav/div/ul/li[4]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'Education')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "e311c986-3933-4140-aa16-0379fa25b195",
-      "comment": "",
-      "command": "click",
-      "target": "css=.btn-primary",
-      "targets": [
-        ["css=.btn-primary", "css:finder"],
-        ["xpath=//input[@value='Accept']", "xpath:attributes"],
-        ["xpath=//div[@id='content']/div/div/form/div/input", "xpath:idRelative"],
-        ["xpath=//input", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "0ec179a2-8ba5-4aff-97ce-dd9f50862252",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=PURCHASE MODULE",
-      "targets": [
-        ["linkText=PURCHASE MODULE", "linkText"],
-        ["css=.landing-nav-item > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'PURCHASE MODULE')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li/a", "xpath:idRelative"],
-        ["xpath=//a[contains(@href, '/profile')]", "xpath:href"],
-        ["xpath=//a", "xpath:position"],
-        ["xpath=//a[contains(.,'PURCHASE MODULE')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "8ecfff3d-0c46-4ae4-9fc0-730b28233c9b",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "2c9094aa-e75f-4d6a-b002-7d222b5fe4a0",
-      "comment": "",
-      "command": "mouseOver",
-      "target": "linkText=My Account",
-      "targets": [
-        ["linkText=My Account", "linkText"],
-        ["css=.solid", "css:finder"],
-        ["xpath=//a[contains(text(),'My Account')]", "xpath:link"],
-        ["xpath=//a[contains(@href, '/account')]", "xpath:href"],
-        ["xpath=//li[4]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'My Account')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "bf441294-66a2-40e1-873d-5770576cda18",
-      "comment": "",
-      "command": "click",
-      "target": "css=.btn-primary",
-      "targets": [
-        ["css=.btn-primary", "css:finder"],
-        ["xpath=//input[@value='Accept']", "xpath:attributes"],
-        ["xpath=//div[@id='content']/div/div/form/div/input", "xpath:idRelative"],
-        ["xpath=//input", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "c06fee75-356d-4f5c-b541-b061a160cd68",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dropdown > .landing-nav-item",
-      "targets": [
-        ["css=.dropdown > .landing-nav-item", "css:finder"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/div/a", "xpath:idRelative"],
-        ["xpath=(//a[contains(@href, '/profile')])[2]", "xpath:href"],
-        ["xpath=//div/a", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "a6378e54-3d9d-4f87-928b-2a1215797299",
-      "comment": "",
-      "command": "mouseOver",
-      "target": "css=.dropdown > .landing-nav-item",
-      "targets": [
-        ["css=.dropdown > .landing-nav-item", "css:finder"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/div/a", "xpath:idRelative"],
-        ["xpath=(//a[contains(@href, '/profile')])[2]", "xpath:href"],
-        ["xpath=//div/a", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "03d5b7e8-6411-477d-b48d-1e2a4bfd0a8f",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dropdown-content > li",
-      "targets": [
-        ["css=.dropdown-content > li", "css:finder"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/div/ul/li", "xpath:idRelative"],
-        ["xpath=//li[2]/div/ul/li", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "ce09a8a3-6acf-412c-aeaa-8e3ec5ea7761",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "4e37805c-8bbd-4ab9-b576-833b473685cf",
-      "comment": "",
-      "command": "mouseOver",
-      "target": "linkText=Education",
-      "targets": [
-        ["linkText=Education", "linkText"],
-        ["css=.nav-item:nth-child(4) > .nav-link", "css:finder"],
-        ["xpath=//a[contains(text(),'Education')]", "xpath:link"],
-        ["xpath=//div[@id='navbar']/ul/li[4]/a", "xpath:idRelative"],
-        ["xpath=//a[contains(@href, '/educational-resources')]", "xpath:href"],
-        ["xpath=//nav/div/ul/li[4]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'Education')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "9b4a54b2-3a52-4231-bc99-1359df878a2c",
-      "comment": "",
-      "command": "click",
-      "target": "css=.btn-primary",
-      "targets": [
-        ["css=.btn-primary", "css:finder"],
-        ["xpath=//input[@value='Accept']", "xpath:attributes"],
-        ["xpath=//div[@id='content']/div/div/form/div/input", "xpath:idRelative"],
-        ["xpath=//input", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "09a49d53-3254-4639-a71d-edbc6e187de2",
-      "comment": "",
-      "command": "click",
-      "target": "css=.fa-user > path",
-      "targets": [
-        ["css=.fa-user > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "8ec6c1db-9d00-4219-972b-c409e47c3550",
-      "comment": "",
-      "command": "mouseDownAt",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": "10.25,19"
-    }, {
-      "id": "8ac522e0-af55-4ca1-93c6-cf225a74aee7",
-      "comment": "",
-      "command": "mouseMoveAt",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": "10.25,19"
-    }, {
-      "id": "12f48b79-4faa-4ef2-b296-cf4a0f1cf826",
-      "comment": "",
-      "command": "mouseUpAt",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": "10.25,19"
-    }, {
-      "id": "ce4968eb-28e5-422b-8fbd-d52e1d678fac",
-      "comment": "",
-      "command": "click",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "2894c307-1240-48a2-81f0-48fe59aaa002",
-      "comment": "",
-      "command": "click",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "65446cce-f492-4f47-b3b2-0150cb9e5eee",
-      "comment": "",
-      "command": "click",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "fea0a885-05a4-4d01-95e4-91874760763a",
-      "comment": "",
-      "command": "click",
-      "target": "css=.card:nth-child(4) .btn-invert",
-      "targets": [
-        ["css=.card:nth-child(4) .btn-invert", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/div/div[2]/div[4]/div[3]/div/button", "xpath:idRelative"],
-        ["xpath=//div[4]/div[3]/div/button", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "56347863-a53d-445b-8f6d-a3731a4c8ed6",
-      "comment": "",
-      "command": "click",
-      "target": "css=.module-title",
-      "targets": [
-        ["css=.module-title", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/h2", "xpath:idRelative"],
-        ["xpath=//h2", "xpath:position"],
-        ["xpath=//h2[contains(.,'Test Automation')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "22243c24-997d-4113-8791-3cabd90f2faa",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=Dashboard",
-      "targets": [
-        ["linkText=Dashboard", "linkText"],
-        ["css=.breadcrumb", "css:finder"],
-        ["xpath=//a[contains(text(),'Dashboard')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div[2]/div/a", "xpath:idRelative"],
-        ["xpath=//a[contains(@href, '/dashboard')]", "xpath:href"],
-        ["xpath=//div[2]/div/a", "xpath:position"],
-        ["xpath=//a[contains(.,'Dashboard')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "8aa98572-7ce9-4b70-99bf-a6f404993a31",
-      "comment": "",
-      "command": "click",
+      "command": "waitForElementPresent",
       "target": "css=.dashboard-main-title > h2",
-      "targets": [
-        ["css=.dashboard-main-title > h2", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/div/div/h2", "xpath:idRelative"],
-        ["xpath=//h2", "xpath:position"],
-        ["xpath=//h2[contains(.,'Modules')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "53d35b20-d438-4b85-a887-3c2277773340",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dot:nth-child(1) .badge-progress",
-      "targets": [
-        ["css=.dot:nth-child(1) .badge-progress", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/div/div/img", "xpath:idRelative"],
-        ["xpath=//div/div/div/div/div/img", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "1fdf7fac-6a2e-449b-ad29-24db15eed9a6",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dot:nth-child(6) .badge-progress",
-      "targets": [
-        ["css=.dot:nth-child(6) .badge-progress", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div/div[6]/div/div/div/img", "xpath:idRelative"],
-        ["xpath=//div[6]/div/div/div/img", "xpath:position"]
-      ],
-      "value": ""
+      "targets": [],
+      "value": "30000"
     }, {
       "id": "c360a008-a370-4003-a8aa-c903e030542b",
       "comment": "",
@@ -5070,6 +4354,13 @@
       "targets": [
         ["css=.fa-chevron-right > path", "css:finder"]
       ],
+      "value": ""
+    }, {
+      "id": "6696ea60-88d7-4593-a7aa-d1cbccb7b8de",
+      "comment": "",
+      "command": "pause",
+      "target": "1000",
+      "targets": [],
       "value": ""
     }, {
       "id": "e60cb5c3-b114-445d-84bb-bd6e93d5ac24",
@@ -5081,6 +4372,13 @@
       ],
       "value": ""
     }, {
+      "id": "6feb2128-025d-472c-a49d-69df3d9b90b0",
+      "comment": "",
+      "command": "pause",
+      "target": "1000",
+      "targets": [],
+      "value": ""
+    }, {
       "id": "de7a3ed6-5bd7-4461-8fa3-fa69cf9e71b4",
       "comment": "",
       "command": "click",
@@ -5088,6 +4386,13 @@
       "targets": [
         ["css=.fa-chevron-right", "css:finder"]
       ],
+      "value": ""
+    }, {
+      "id": "389d6f4c-b7b2-4447-b15a-1e5ae3e941da",
+      "comment": "",
+      "command": "pause",
+      "target": "1000",
+      "targets": [],
       "value": ""
     }, {
       "id": "02242568-fd84-4757-83fa-e3ded4b8a1ac",
@@ -5098,20 +4403,6 @@
         ["css=.fa-chevron-left", "css:finder"]
       ],
       "value": ""
-    }, {
-      "id": "f97fdaa1-af8e-4599-9ad4-4334bf2a5da2",
-      "comment": "",
-      "command": "close",
-      "target": "",
-      "targets": [],
-      "value": ""
-    }, {
-      "id": "6cb706dc-dbeb-4b7e-a823-50f3e94a0629",
-      "comment": "",
-      "command": "waitForElementPresent",
-      "target": "css=.dashboard-main-title > h2",
-      "targets": [],
-      "value": "30000"
     }, {
       "id": "8b64e985-e3b3-439a-802a-e078465cc6a4",
       "comment": "",
@@ -5265,7 +4556,7 @@
       "id": "e68548ce-6c04-4d61-91c7-69abb4843cc2",
       "comment": "",
       "command": "assertTitle",
-      "target": "AT*SQA - Association for Testing and Software Quality Assurance - ISTQB Exam Registration",
+      "target": "ISTQB Online Exam Registration - AT*SQA - Official US List of Certified Testers",
       "targets": [],
       "value": ""
     }, {
@@ -5288,404 +4579,33 @@
       "targets": [],
       "value": ""
     }, {
-      "id": "9023a3cf-ea35-49e0-80b5-d8b12666fb33",
-      "comment": "",
-      "command": "mouseDownAt",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": "41.21875,11"
-    }, {
-      "id": "a10b9d99-fd90-48d3-89e2-ac408ef206db",
-      "comment": "",
-      "command": "mouseMoveAt",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": "41.21875,11"
-    }, {
-      "id": "93c1fd7d-398c-476b-a691-b2c897c5ca16",
-      "comment": "",
-      "command": "mouseUpAt",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": "41.21875,11"
-    }, {
-      "id": "fdd0c410-72a3-4b39-a0b0-7f101c6b3e1b",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "4a9e2d78-0f2f-4f71-b58c-e58cd00705e0",
-      "comment": "",
-      "command": "mouseOver",
-      "target": "linkText=Education",
-      "targets": [
-        ["linkText=Education", "linkText"],
-        ["css=.nav-item:nth-child(4) > .nav-link", "css:finder"],
-        ["xpath=//a[contains(text(),'Education')]", "xpath:link"],
-        ["xpath=//div[@id='navbar']/ul/li[4]/a", "xpath:idRelative"],
-        ["xpath=//a[contains(@href, '/educational-resources')]", "xpath:href"],
-        ["xpath=//nav/div/ul/li[4]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'Education')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "a4269ed5-8d4c-4557-b4a5-dc93a60e3cc4",
-      "comment": "",
-      "command": "click",
-      "target": "css=.btn-primary",
-      "targets": [
-        ["css=.btn-primary", "css:finder"],
-        ["xpath=//input[@value='Accept']", "xpath:attributes"],
-        ["xpath=//div[@id='content']/div/div/form/div/input", "xpath:idRelative"],
-        ["xpath=//input", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "aec96162-51f8-4f32-91d6-a1e4e4ab04fe",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=PURCHASE MODULE",
-      "targets": [
-        ["linkText=PURCHASE MODULE", "linkText"],
-        ["css=.landing-nav-item > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'PURCHASE MODULE')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li/a", "xpath:idRelative"],
-        ["xpath=//a[contains(@href, '/profile')]", "xpath:href"],
-        ["xpath=//a", "xpath:position"],
-        ["xpath=//a[contains(.,'PURCHASE MODULE')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "61f1ae48-d668-4e62-8f62-331db8c6b1a3",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "e4f0802a-af90-4450-8f61-4ededbde6f5f",
-      "comment": "",
-      "command": "mouseOver",
-      "target": "linkText=My Account",
-      "targets": [
-        ["linkText=My Account", "linkText"],
-        ["css=.solid", "css:finder"],
-        ["xpath=//a[contains(text(),'My Account')]", "xpath:link"],
-        ["xpath=//a[contains(@href, '/account')]", "xpath:href"],
-        ["xpath=//li[4]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'My Account')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "f30522fd-b109-4155-b5e5-b7c0dc942876",
-      "comment": "",
-      "command": "click",
-      "target": "css=.btn-primary",
-      "targets": [
-        ["css=.btn-primary", "css:finder"],
-        ["xpath=//input[@value='Accept']", "xpath:attributes"],
-        ["xpath=//div[@id='content']/div/div/form/div/input", "xpath:idRelative"],
-        ["xpath=//input", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "a9dadf85-3d64-41e5-a3c7-ecdb7ea0a0e2",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dropdown > .landing-nav-item",
-      "targets": [
-        ["css=.dropdown > .landing-nav-item", "css:finder"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/div/a", "xpath:idRelative"],
-        ["xpath=(//a[contains(@href, '/profile')])[2]", "xpath:href"],
-        ["xpath=//div/a", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "39a4ce37-aef2-4809-8b67-5ce093c51ab9",
-      "comment": "",
-      "command": "mouseOver",
-      "target": "css=.dropdown > .landing-nav-item",
-      "targets": [
-        ["css=.dropdown > .landing-nav-item", "css:finder"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/div/a", "xpath:idRelative"],
-        ["xpath=(//a[contains(@href, '/profile')])[2]", "xpath:href"],
-        ["xpath=//div/a", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "b54b8f94-8402-4bef-95cd-e11a1d5d5a8d",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dropdown-content > li",
-      "targets": [
-        ["css=.dropdown-content > li", "css:finder"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/div/ul/li", "xpath:idRelative"],
-        ["xpath=//li[2]/div/ul/li", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "26547389-dd83-494a-a38e-f06a0c08ae5e",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "3612b7a2-576e-4f06-bf9d-b2dd81588b1e",
-      "comment": "",
-      "command": "mouseOver",
-      "target": "linkText=Education",
-      "targets": [
-        ["linkText=Education", "linkText"],
-        ["css=.nav-item:nth-child(4) > .nav-link", "css:finder"],
-        ["xpath=//a[contains(text(),'Education')]", "xpath:link"],
-        ["xpath=//div[@id='navbar']/ul/li[4]/a", "xpath:idRelative"],
-        ["xpath=//a[contains(@href, '/educational-resources')]", "xpath:href"],
-        ["xpath=//nav/div/ul/li[4]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'Education')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "2fa23466-e735-4878-be57-f10db12441ea",
-      "comment": "",
-      "command": "click",
-      "target": "css=.btn-primary",
-      "targets": [
-        ["css=.btn-primary", "css:finder"],
-        ["xpath=//input[@value='Accept']", "xpath:attributes"],
-        ["xpath=//div[@id='content']/div/div/form/div/input", "xpath:idRelative"],
-        ["xpath=//input", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "34140828-e1ce-46cb-a4b5-174b3407d365",
-      "comment": "",
-      "command": "click",
-      "target": "css=.fa-user > path",
-      "targets": [
-        ["css=.fa-user > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "4d0b875d-0a6b-4792-9a21-a14ad95fe417",
-      "comment": "",
-      "command": "mouseDownAt",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": "10.25,19"
-    }, {
-      "id": "ed081414-6629-4e39-b2c3-2ab566618969",
-      "comment": "",
-      "command": "mouseMoveAt",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": "10.25,19"
-    }, {
-      "id": "d2fb7cc8-c430-4ec2-a7c8-8a717b056955",
-      "comment": "",
-      "command": "mouseUpAt",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": "10.25,19"
-    }, {
-      "id": "3e041598-33f4-4a56-8ba9-83ad1f49e075",
-      "comment": "",
-      "command": "click",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "eeae5d14-5a60-42fd-ac6d-c17504db3d80",
-      "comment": "",
-      "command": "click",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "9b7bbe15-a4dc-4dc2-80d3-202fedcffebc",
-      "comment": "",
-      "command": "click",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "1706db06-e5c0-4628-b653-d2bc8a352690",
-      "comment": "",
-      "command": "click",
-      "target": "css=.card:nth-child(4) .btn-invert",
-      "targets": [
-        ["css=.card:nth-child(4) .btn-invert", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/div/div[2]/div[4]/div[3]/div/button", "xpath:idRelative"],
-        ["xpath=//div[4]/div[3]/div/button", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "2e5c09da-f919-4eb9-94ad-c434e0479abe",
-      "comment": "",
-      "command": "click",
-      "target": "css=.module-title",
-      "targets": [
-        ["css=.module-title", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/h2", "xpath:idRelative"],
-        ["xpath=//h2", "xpath:position"],
-        ["xpath=//h2[contains(.,'Test Automation')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "abcd6bed-7e96-4cee-b805-8a99dfae0c7e",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=Dashboard",
-      "targets": [
-        ["linkText=Dashboard", "linkText"],
-        ["css=.breadcrumb", "css:finder"],
-        ["xpath=//a[contains(text(),'Dashboard')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div[2]/div/a", "xpath:idRelative"],
-        ["xpath=//a[contains(@href, '/dashboard')]", "xpath:href"],
-        ["xpath=//div[2]/div/a", "xpath:position"],
-        ["xpath=//a[contains(.,'Dashboard')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "a0aed53e-6de7-4e4e-be5f-b54cf5868eaf",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dashboard-main-title > h2",
-      "targets": [
-        ["css=.dashboard-main-title > h2", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/div/div/h2", "xpath:idRelative"],
-        ["xpath=//h2", "xpath:position"],
-        ["xpath=//h2[contains(.,'Modules')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "bdd0b355-ac6f-4440-affc-ea01095b2a9d",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dot:nth-child(1) .badge-progress",
-      "targets": [
-        ["css=.dot:nth-child(1) .badge-progress", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/div/div/img", "xpath:idRelative"],
-        ["xpath=//div/div/div/div/div/img", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "0f7d04d5-04ec-42de-b460-5140c650348f",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dot:nth-child(6) .badge-progress",
-      "targets": [
-        ["css=.dot:nth-child(6) .badge-progress", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div/div[6]/div/div/div/img", "xpath:idRelative"],
-        ["xpath=//div[6]/div/div/div/img", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "94b5585a-ca6c-48b8-97c4-024a5afc54f0",
-      "comment": "",
-      "command": "click",
-      "target": "css=.fa-chevron-right > path",
-      "targets": [
-        ["css=.fa-chevron-right > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "fb704c04-5c7e-48e6-b1ec-854b583ca6a7",
-      "comment": "",
-      "command": "click",
-      "target": "css=.fa-chevron-right",
-      "targets": [
-        ["css=.fa-chevron-right", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "47161b5f-454d-4962-9614-2507377bd383",
-      "comment": "",
-      "command": "click",
-      "target": "css=.fa-chevron-right",
-      "targets": [
-        ["css=.fa-chevron-right", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "13a5568f-d477-4011-893e-bb4b7f72307e",
-      "comment": "",
-      "command": "click",
-      "target": "css=.fa-chevron-left",
-      "targets": [
-        ["css=.fa-chevron-left", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "e41366a2-65a8-4d2c-a2d9-9dbfa1b31ee0",
-      "comment": "",
-      "command": "close",
-      "target": "",
-      "targets": [],
-      "value": ""
-    }, {
       "id": "7cc23f6d-e83f-4607-a953-41913b68685c",
       "comment": "",
       "command": "waitForElementPresent",
       "target": "css=.dashboard-main-title > h2",
       "targets": [],
       "value": "30000"
+    }, {
+      "id": "bdd0b355-ac6f-4440-affc-ea01095b2a9d",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.dot:nth-child(1) .badge-progress",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "74360a98-10c5-4134-8b92-8c3eb1e6e464",
+      "comment": "",
+      "command": "pause",
+      "target": "3000",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0f7d04d5-04ec-42de-b460-5140c650348f",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.dot:nth-child(6) .badge-progress",
+      "targets": [],
+      "value": ""
     }, {
       "id": "38600e65-788d-4b07-9d85-37988254844b",
       "comment": "",
@@ -5839,7 +4759,7 @@
       "id": "e2ec954e-a523-471d-b218-78f232ce5310",
       "comment": "",
       "command": "assertTitle",
-      "target": "AT*SQA - Association for Testing and Software Quality Assurance - ISTQB Exam Registration",
+      "target": "ISTQB Online Exam Registration - AT*SQA - Official US List of Certified Testers",
       "targets": [],
       "value": ""
     }, {
@@ -5862,404 +4782,30 @@
       "targets": [],
       "value": ""
     }, {
-      "id": "6cf7be49-1e62-48e2-8ab2-a7521abe333f",
-      "comment": "",
-      "command": "mouseDownAt",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": "41.21875,11"
-    }, {
-      "id": "1abc677a-a6b1-4bc9-a34c-08ce5724ea93",
-      "comment": "",
-      "command": "mouseMoveAt",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": "41.21875,11"
-    }, {
-      "id": "56d0925d-0b1f-4d9f-bb79-b923a5609490",
-      "comment": "",
-      "command": "mouseUpAt",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": "41.21875,11"
-    }, {
-      "id": "6a59d12f-18d4-4ca3-86f0-28cbcadc25e0",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "05af7663-6068-4e69-9146-55dafe6409c6",
-      "comment": "",
-      "command": "mouseOver",
-      "target": "linkText=Education",
-      "targets": [
-        ["linkText=Education", "linkText"],
-        ["css=.nav-item:nth-child(4) > .nav-link", "css:finder"],
-        ["xpath=//a[contains(text(),'Education')]", "xpath:link"],
-        ["xpath=//div[@id='navbar']/ul/li[4]/a", "xpath:idRelative"],
-        ["xpath=//a[contains(@href, '/educational-resources')]", "xpath:href"],
-        ["xpath=//nav/div/ul/li[4]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'Education')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "2fc51814-e1a1-4677-945c-1abb27a276f2",
-      "comment": "",
-      "command": "click",
-      "target": "css=.btn-primary",
-      "targets": [
-        ["css=.btn-primary", "css:finder"],
-        ["xpath=//input[@value='Accept']", "xpath:attributes"],
-        ["xpath=//div[@id='content']/div/div/form/div/input", "xpath:idRelative"],
-        ["xpath=//input", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "a4d0d85d-3875-4351-a78e-8de430dc9933",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=PURCHASE MODULE",
-      "targets": [
-        ["linkText=PURCHASE MODULE", "linkText"],
-        ["css=.landing-nav-item > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'PURCHASE MODULE')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li/a", "xpath:idRelative"],
-        ["xpath=//a[contains(@href, '/profile')]", "xpath:href"],
-        ["xpath=//a", "xpath:position"],
-        ["xpath=//a[contains(.,'PURCHASE MODULE')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "094653db-3a07-4e0e-b47a-e3cc8dd84d1c",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "a45e650b-e05c-49a5-9104-73480ac81703",
-      "comment": "",
-      "command": "mouseOver",
-      "target": "linkText=My Account",
-      "targets": [
-        ["linkText=My Account", "linkText"],
-        ["css=.solid", "css:finder"],
-        ["xpath=//a[contains(text(),'My Account')]", "xpath:link"],
-        ["xpath=//a[contains(@href, '/account')]", "xpath:href"],
-        ["xpath=//li[4]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'My Account')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "9b46b249-1897-4718-b189-31d4c7cc708b",
-      "comment": "",
-      "command": "click",
-      "target": "css=.btn-primary",
-      "targets": [
-        ["css=.btn-primary", "css:finder"],
-        ["xpath=//input[@value='Accept']", "xpath:attributes"],
-        ["xpath=//div[@id='content']/div/div/form/div/input", "xpath:idRelative"],
-        ["xpath=//input", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "2c2b5e59-a693-4234-8fe2-3ad2bfc184fc",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dropdown > .landing-nav-item",
-      "targets": [
-        ["css=.dropdown > .landing-nav-item", "css:finder"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/div/a", "xpath:idRelative"],
-        ["xpath=(//a[contains(@href, '/profile')])[2]", "xpath:href"],
-        ["xpath=//div/a", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "3c415709-3e93-481b-bbad-b14643c2e65f",
-      "comment": "",
-      "command": "mouseOver",
-      "target": "css=.dropdown > .landing-nav-item",
-      "targets": [
-        ["css=.dropdown > .landing-nav-item", "css:finder"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/div/a", "xpath:idRelative"],
-        ["xpath=(//a[contains(@href, '/profile')])[2]", "xpath:href"],
-        ["xpath=//div/a", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "87df3554-c617-4c7a-9981-9cb8f099893f",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dropdown-content > li",
-      "targets": [
-        ["css=.dropdown-content > li", "css:finder"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/div/ul/li", "xpath:idRelative"],
-        ["xpath=//li[2]/div/ul/li", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "4193d362-4ae6-43c4-946d-dfa8985d4e3c",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=LOGIN",
-      "targets": [
-        ["linkText=LOGIN", "linkText"],
-        ["css=.landing-nav-item:nth-child(2) > .landing-nav-item", "css:finder"],
-        ["xpath=//a[contains(text(),'LOGIN')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div/ul/li[2]/a", "xpath:idRelative"],
-        ["xpath=//li[2]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'LOGIN')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "b7ad9deb-6999-4404-8fdf-8edcc6c01123",
-      "comment": "",
-      "command": "mouseOver",
-      "target": "linkText=Education",
-      "targets": [
-        ["linkText=Education", "linkText"],
-        ["css=.nav-item:nth-child(4) > .nav-link", "css:finder"],
-        ["xpath=//a[contains(text(),'Education')]", "xpath:link"],
-        ["xpath=//div[@id='navbar']/ul/li[4]/a", "xpath:idRelative"],
-        ["xpath=//a[contains(@href, '/educational-resources')]", "xpath:href"],
-        ["xpath=//nav/div/ul/li[4]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'Education')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "c696b39f-e4d3-4a3d-8f60-2aca2e5d2d83",
-      "comment": "",
-      "command": "click",
-      "target": "css=.btn-primary",
-      "targets": [
-        ["css=.btn-primary", "css:finder"],
-        ["xpath=//input[@value='Accept']", "xpath:attributes"],
-        ["xpath=//div[@id='content']/div/div/form/div/input", "xpath:idRelative"],
-        ["xpath=//input", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "398b7cb7-a012-41c8-b163-14a379c8aba7",
-      "comment": "",
-      "command": "click",
-      "target": "css=.fa-user > path",
-      "targets": [
-        ["css=.fa-user > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "45470204-81df-476d-b322-f0aa362717e0",
-      "comment": "",
-      "command": "mouseDownAt",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": "10.25,19"
-    }, {
-      "id": "280b8481-01ae-4158-aef7-f35b6e2ce428",
-      "comment": "",
-      "command": "mouseMoveAt",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": "10.25,19"
-    }, {
-      "id": "b90baa0d-1ad4-47f5-ad8d-ce2485873012",
-      "comment": "",
-      "command": "mouseUpAt",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": "10.25,19"
-    }, {
-      "id": "d653d2c1-ea42-4aca-8c04-29b0945bb1d9",
-      "comment": "",
-      "command": "click",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "64b58190-ec7b-4b81-8a5b-fe6b1e44882e",
-      "comment": "",
-      "command": "click",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "91a05b07-6341-42e5-9f3a-f4d8f07dcf3e",
-      "comment": "",
-      "command": "click",
-      "target": "css=.grey > path",
-      "targets": [
-        ["css=.grey > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "d1bc8dea-8109-4f07-a6ec-84e5ea8ab9d9",
-      "comment": "",
-      "command": "click",
-      "target": "css=.card:nth-child(4) .btn-invert",
-      "targets": [
-        ["css=.card:nth-child(4) .btn-invert", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/div/div[2]/div[4]/div[3]/div/button", "xpath:idRelative"],
-        ["xpath=//div[4]/div[3]/div/button", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "f7d03c2d-3b57-461c-aca5-22657d3f3ce2",
-      "comment": "",
-      "command": "click",
-      "target": "css=.module-title",
-      "targets": [
-        ["css=.module-title", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/h2", "xpath:idRelative"],
-        ["xpath=//h2", "xpath:position"],
-        ["xpath=//h2[contains(.,'Test Automation')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "6fa5a0ff-160f-4182-9cc3-6c561523fb51",
-      "comment": "",
-      "command": "click",
-      "target": "linkText=Dashboard",
-      "targets": [
-        ["linkText=Dashboard", "linkText"],
-        ["css=.breadcrumb", "css:finder"],
-        ["xpath=//a[contains(text(),'Dashboard')]", "xpath:link"],
-        ["xpath=//div[@id='app']/div[2]/div/a", "xpath:idRelative"],
-        ["xpath=//a[contains(@href, '/dashboard')]", "xpath:href"],
-        ["xpath=//div[2]/div/a", "xpath:position"],
-        ["xpath=//a[contains(.,'Dashboard')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "7bb75f0d-301e-4568-8ee6-6b383aed157e",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dashboard-main-title > h2",
-      "targets": [
-        ["css=.dashboard-main-title > h2", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/div/div/h2", "xpath:idRelative"],
-        ["xpath=//h2", "xpath:position"],
-        ["xpath=//h2[contains(.,'Modules')]", "xpath:innerText"]
-      ],
-      "value": ""
-    }, {
-      "id": "db102f36-1b7d-4e4f-a6b2-9de2c77a0d60",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dot:nth-child(1) .badge-progress",
-      "targets": [
-        ["css=.dot:nth-child(1) .badge-progress", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/div/div/img", "xpath:idRelative"],
-        ["xpath=//div/div/div/div/div/img", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "1e0c9c90-01d3-4db7-b709-6d87b882f120",
-      "comment": "",
-      "command": "click",
-      "target": "css=.dot:nth-child(6) .badge-progress",
-      "targets": [
-        ["css=.dot:nth-child(6) .badge-progress", "css:finder"],
-        ["xpath=//div[@id='app']/div[2]/div/div[2]/div/div[2]/div/div[2]/div/div/div[6]/div/div/div/img", "xpath:idRelative"],
-        ["xpath=//div[6]/div/div/div/img", "xpath:position"]
-      ],
-      "value": ""
-    }, {
-      "id": "4efc240b-5725-4753-a7bd-bf96d7af2b4a",
-      "comment": "",
-      "command": "click",
-      "target": "css=.fa-chevron-right > path",
-      "targets": [
-        ["css=.fa-chevron-right > path", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "730fc1df-da54-425a-bcf0-4e747b09b4e7",
-      "comment": "",
-      "command": "click",
-      "target": "css=.fa-chevron-right",
-      "targets": [
-        ["css=.fa-chevron-right", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "db4795c5-21b7-426e-9706-d65417ea0b81",
-      "comment": "",
-      "command": "click",
-      "target": "css=.fa-chevron-right",
-      "targets": [
-        ["css=.fa-chevron-right", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "9ac99ebd-a641-49b5-93c2-81d9521ddb35",
-      "comment": "",
-      "command": "click",
-      "target": "css=.fa-chevron-left",
-      "targets": [
-        ["css=.fa-chevron-left", "css:finder"]
-      ],
-      "value": ""
-    }, {
-      "id": "2ef29d0e-8406-432e-a656-e3680630ea20",
-      "comment": "",
-      "command": "close",
-      "target": "",
-      "targets": [],
-      "value": ""
-    }, {
       "id": "59a46e16-f0cc-4848-a7b6-0a85525fc09a",
       "comment": "",
       "command": "waitForElementPresent",
       "target": "css=.dashboard-main-title > h2",
       "targets": [],
       "value": "30000"
+    }, {
+      "id": "7d6b7b32-56cb-46a5-a9a6-7ad514cea475",
+      "comment": "",
+      "command": "click",
+      "target": "css=.orange",
+      "targets": [
+        ["css=.orange", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "2d310f89-1295-4f92-a8e3-a7aaca95008d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.orange > path",
+      "targets": [
+        ["css=.orange > path", "css:finder"]
+      ],
+      "value": ""
     }, {
       "id": "a74def8b-a6b4-41df-93c0-83316cbd14f5",
       "comment": "",
@@ -6413,7 +4959,7 @@
       "id": "db75eb87-3ebc-4474-bcc3-c5d021428a5b",
       "comment": "",
       "command": "assertTitle",
-      "target": "AT*SQA - Association for Testing and Software Quality Assurance - ISTQB Exam Registration",
+      "target": "ISTQB Online Exam Registration - AT*SQA - Official US List of Certified Testers",
       "targets": [],
       "value": ""
     }, {
@@ -6609,7 +5155,7 @@
       "id": "84d8e072-184b-4839-8dca-ec884d7f1fa0",
       "comment": "",
       "command": "assertTitle",
-      "target": "AT*SQA - Association for Testing and Software Quality Assurance - ISTQB Exam Registration",
+      "target": "ISTQB Online Exam Registration - AT*SQA - Official US List of Certified Testers",
       "targets": [],
       "value": ""
     }, {
